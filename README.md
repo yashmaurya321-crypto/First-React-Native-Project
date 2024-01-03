@@ -14,7 +14,9 @@ During the development of this project, my computer faced challenges in resolvin
 To run the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/yashmaurya321-crypto/First-React-Native-Project`
-2. Navigate to the project directory: `cd <project directory>`
-3. Run the project: (Instructions to run the project, if any)
+2. Navigate to the project directory: `cd AwesomeProject`
+3. Install dependencies: `npm install`
+4. Start the application: npx expo start or npx expo start --tunnel
+5. If you face any error durinng Start of application using 'npx expo start --tunnel' just write 'npm i ngrok' and restart it 
 
 Feel free to reach out if you have any questions or suggestions!
