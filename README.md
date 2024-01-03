@@ -13,7 +13,7 @@ During the development of this project, my computer faced challenges in resolvin
 
 To run the project, follow these steps:
 
-1. Clone the repository: `git clone <repository URL>`
+1. Clone the repository: `git clone https://github.com/yashmaurya321-crypto/First-React-Native-Project`
 2. Navigate to the project directory: `cd <project directory>`
 3. Run the project: (Instructions to run the project, if any)
 
